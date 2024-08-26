@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698470008043",
+    "project_id": "onlinetutoringapp-ce038",
+    "storage_bucket": "onlinetutoringapp-ce038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698470008043:android:e28f3a974da55b8e54aaae",
+        "android_client_info": {
+          "package_name": "com.DressApp.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcZcmK79f4rneBj8LN2Z9KN9HXfGiSuMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
